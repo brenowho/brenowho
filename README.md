@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Power BI, Excel, SCRUM, MVP, T&D, Data Analysis, Culture and Leadership**
 
-- 📫 How to reach me **costabrenoc@gmail.com**
+- 📫 How to reach me **jobs.brenowho@gmail.com**
 
 - ⚡ Fun fact **I am Danone's Dino 🦖**
 
