@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jobs.brenowho@gmail.com**
 
-- ⚡ Fun fact **I am Danone's Dino 🦖**
+- ⚡ Fun fact **I built a raft out of PET bottles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
