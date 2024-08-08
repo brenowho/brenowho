@@ -21,12 +21,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,bootstrap,vscode,figma,git&perline=5" />    
 </div>
 <hr/>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <img  src="https://github.com/user-attachments/assets/0393b1e7-6d2a-44e0-99e9-47308f9214d7" alt="Octocat" width="200">
-  <img  src="https://github.com/user-attachments/assets/ca57b924-8325-402d-9d2b-2d942749c33e" width="300">
-</div>
-
-<hr/>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/19e35a4b-bf25-40ae-83a2-cbba3fb6b4a3)
 <hr/>
@@ -49,11 +43,16 @@
 
 <hr/>
 
-
 <div align="center">
   <h3 align="center">🌐 Connect with me 🌐</h3><hr/>
     <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/breno-pinho/" target="_blank"><img align="center" alt="LinkedIn" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"></a>
     <a href="https://www.instagram.com/brenowho" target="_blank"><img align="center" alt="Instagram" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"></a>
     <a href="mailto:jobs.brenowho@gmail.com" target="_blank"><img align="center" alt="Gmail" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"></a>
+      <div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
+  <img  src="https://github.com/user-attachments/assets/0393b1e7-6d2a-44e0-99e9-47308f9214d7" alt="Octocat" width="200">
+  <img  src="https://github.com/user-attachments/assets/ca57b924-8325-402d-9d2b-2d942749c33e" width="300">
+</div>
+
+<hr/>
 </div><hr/>
